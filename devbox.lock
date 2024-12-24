@@ -1,0 +1,390 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "awscli2@latest": {
+      "last_modified": "2024-12-13T21:43:23Z",
+      "resolved": "github:NixOS/nixpkgs/71a6392e367b08525ee710a93af2e80083b5b3e2#awscli2",
+      "source": "devbox-search",
+      "version": "2.22.13",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/n81q1rny2fs3ww0rww96m3jw48zy498f-awscli2-2.22.13",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/6xwxx6ik2wp4yiyqrdsyv4rfk4va3g5w-awscli2-2.22.13-dist"
+            }
+          ],
+          "store_path": "/nix/store/n81q1rny2fs3ww0rww96m3jw48zy498f-awscli2-2.22.13"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dfay95an2kvvikl6hlpxdh3rd6p066i7-awscli2-2.22.13",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/h6mbisj55qa6n9wnbcfqpha2ikvlcx40-awscli2-2.22.13-dist"
+            }
+          ],
+          "store_path": "/nix/store/dfay95an2kvvikl6hlpxdh3rd6p066i7-awscli2-2.22.13"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rjxfz0cxbmrwkan42cfa9fx26slphxqx-awscli2-2.22.13",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/svvyqjzhmj7ypv7mbvag0926vlidczjp-awscli2-2.22.13-dist"
+            }
+          ],
+          "store_path": "/nix/store/rjxfz0cxbmrwkan42cfa9fx26slphxqx-awscli2-2.22.13"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0q7b4gvmqqc75gjwb40sn8pdi0zs0f68-awscli2-2.22.13",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/ymcxyk48d7nb6gvw99jy079whrqqcqj4-awscli2-2.22.13-dist"
+            }
+          ],
+          "store_path": "/nix/store/0q7b4gvmqqc75gjwb40sn8pdi0zs0f68-awscli2-2.22.13"
+        }
+      }
+    },
+    "clj-kondo@latest": {
+      "last_modified": "2024-12-11T16:51:25Z",
+      "resolved": "github:NixOS/nixpkgs/5a48e3c2e435e95103d56590188cfed7b70e108c#clj-kondo",
+      "source": "devbox-search",
+      "version": "2024.11.14",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ra3hbsvjxssxc6fsmvaal9si6r5343gp-clj-kondo-2024.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ra3hbsvjxssxc6fsmvaal9si6r5343gp-clj-kondo-2024.11.14"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vhpi3vyhmzxyspbjyn69j39n8ix706zw-clj-kondo-2024.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vhpi3vyhmzxyspbjyn69j39n8ix706zw-clj-kondo-2024.11.14"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q3bdi8ka3c68nla1vxmb6wgv89ay6q8q-clj-kondo-2024.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/q3bdi8ka3c68nla1vxmb6wgv89ay6q8q-clj-kondo-2024.11.14"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/an7i8sqg1wjak6libw00ap0ricrg3v00-clj-kondo-2024.11.14",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/an7i8sqg1wjak6libw00ap0ricrg3v00-clj-kondo-2024.11.14"
+        }
+      }
+    },
+    "cljfmt@latest": {
+      "last_modified": "2024-12-11T16:51:25Z",
+      "resolved": "github:NixOS/nixpkgs/5a48e3c2e435e95103d56590188cfed7b70e108c#cljfmt",
+      "source": "devbox-search",
+      "version": "0.13.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/70pd16w7dxbyjvnf9vg02n5al3yib9af-cljfmt-0.13.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/70pd16w7dxbyjvnf9vg02n5al3yib9af-cljfmt-0.13.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kbz8j5wk7rc8c74sj2vr71rykwnqv16v-cljfmt-0.13.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/kbz8j5wk7rc8c74sj2vr71rykwnqv16v-cljfmt-0.13.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7xwvg5189lvfqwnqimhjyrjg8lpgl3z7-cljfmt-0.13.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7xwvg5189lvfqwnqimhjyrjg8lpgl3z7-cljfmt-0.13.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/pp7xghdqwqy1fl7dl82g3x2fzkd9nx9h-cljfmt-0.13.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/pp7xghdqwqy1fl7dl82g3x2fzkd9nx9h-cljfmt-0.13.0"
+        }
+      }
+    },
+    "clojure-lsp@latest": {
+      "last_modified": "2024-12-11T16:51:25Z",
+      "resolved": "github:NixOS/nixpkgs/5a48e3c2e435e95103d56590188cfed7b70e108c#clojure-lsp",
+      "source": "devbox-search",
+      "version": "2024.08.05-18.16.00",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7iqb3wapy0lq97xm3msilcgpa15kr5zr-clojure-lsp-2024.08.05-18.16.00",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7iqb3wapy0lq97xm3msilcgpa15kr5zr-clojure-lsp-2024.08.05-18.16.00"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vq1nkcf3ji96cvjwf140r6ng632zda7r-clojure-lsp-2024.08.05-18.16.00",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vq1nkcf3ji96cvjwf140r6ng632zda7r-clojure-lsp-2024.08.05-18.16.00"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/r5vc5iysf1ryrpzjrav9pfacv8cz6h5h-clojure-lsp-2024.08.05-18.16.00",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/r5vc5iysf1ryrpzjrav9pfacv8cz6h5h-clojure-lsp-2024.08.05-18.16.00"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/r0yb7sp100xncfqwwljw7f4cczym7nv0-clojure-lsp-2024.08.05-18.16.00",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/r0yb7sp100xncfqwwljw7f4cczym7nv0-clojure-lsp-2024.08.05-18.16.00"
+        }
+      }
+    },
+    "clojure@1.12.0.1479": {
+      "last_modified": "2024-11-28T07:51:56Z",
+      "resolved": "github:NixOS/nixpkgs/226216574ada4c3ecefcbbec41f39ce4655f78ef#clojure",
+      "source": "devbox-search",
+      "version": "1.12.0.1479",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6bh4vcgyy8di4qyr2457z42fxpinkbrf-clojure-1.12.0.1479",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6bh4vcgyy8di4qyr2457z42fxpinkbrf-clojure-1.12.0.1479"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/j3f5r50yai8s4s9385021wa65kfssgna-clojure-1.12.0.1479",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/j3f5r50yai8s4s9385021wa65kfssgna-clojure-1.12.0.1479"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zfyi9lygza2fifzgmgb4wv6njz5qkcx8-clojure-1.12.0.1479",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zfyi9lygza2fifzgmgb4wv6njz5qkcx8-clojure-1.12.0.1479"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cv6kcj9h0va6ki3p24q0yyarzdwqadiq-clojure-1.12.0.1479",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/cv6kcj9h0va6ki3p24q0yyarzdwqadiq-clojure-1.12.0.1479"
+        }
+      }
+    },
+    "nodejs@20.15.1": {
+      "last_modified": "2024-08-14T11:41:26Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/0cb2fd7c59fed0cd82ef858cbcbdb552b9a33465#nodejs_20",
+      "source": "devbox-search",
+      "version": "20.15.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5ni7zrr67nkpyk3rcsbwafyxq2w24rms-nodejs-20.15.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/vb94kns67rzs9m1qy0hn6pw5fr7aycg5-nodejs-20.15.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/5ni7zrr67nkpyk3rcsbwafyxq2w24rms-nodejs-20.15.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rbsgw2jh1grrhr1hkhzl3brg3dkbx29y-nodejs-20.15.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/kzq56bz77qhivi5ysaxj5vf3rb1mgs6r-nodejs-20.15.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/rbsgw2jh1grrhr1hkhzl3brg3dkbx29y-nodejs-20.15.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cbdl0p3mz0yycqig42356mh7a0km1d4r-nodejs-20.15.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/b3dzip928llv3946yjk9l4c38x2d9hdr-nodejs-20.15.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/cbdl0p3mz0yycqig42356mh7a0km1d4r-nodejs-20.15.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v14k93caffbf0xz2g7bqr964grxxqlmj-nodejs-20.15.1",
+              "default": true
+            },
+            {
+              "name": "libv8",
+              "path": "/nix/store/y3za0qg58rkvi0x9xp6asc5xyyfsf1jn-nodejs-20.15.1-libv8"
+            }
+          ],
+          "store_path": "/nix/store/v14k93caffbf0xz2g7bqr964grxxqlmj-nodejs-20.15.1"
+        }
+      }
+    },
+    "sqlfluff@latest": {
+      "last_modified": "2024-12-03T12:40:06Z",
+      "resolved": "github:NixOS/nixpkgs/566e53c2ad750c84f6d31f9ccb9d00f823165550#sqlfluff",
+      "source": "devbox-search",
+      "version": "3.2.5",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9f1kiwla6vfbj7waph2qhc27rvk54ad4-sqlfluff-3.2.5",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/fzk3mcbfs3i129ss3m79758cq719m5c3-sqlfluff-3.2.5-dist"
+            }
+          ],
+          "store_path": "/nix/store/9f1kiwla6vfbj7waph2qhc27rvk54ad4-sqlfluff-3.2.5"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d9zkixflh7jjmk04qa4kg12z91p23k48-sqlfluff-3.2.5",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/wlnbkaaalzqhkgh146a8a3rf7bhch8dw-sqlfluff-3.2.5-dist"
+            }
+          ],
+          "store_path": "/nix/store/d9zkixflh7jjmk04qa4kg12z91p23k48-sqlfluff-3.2.5"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/m6kk40n4mw5rp6b7gnfv8pl94d20is15-sqlfluff-3.2.5",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/hd4cwri2z5n86c0hg55z1fph3xqr9hqw-sqlfluff-3.2.5-dist"
+            }
+          ],
+          "store_path": "/nix/store/m6kk40n4mw5rp6b7gnfv8pl94d20is15-sqlfluff-3.2.5"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8y6dcx9gjg0r47yqa8dp43x9apdnlxiq-sqlfluff-3.2.5",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/kyhcqhx8xi2bs192k89gsaavi1z36q49-sqlfluff-3.2.5-dist"
+            }
+          ],
+          "store_path": "/nix/store/8y6dcx9gjg0r47yqa8dp43x9apdnlxiq-sqlfluff-3.2.5"
+        }
+      }
+    }
+  }
+}

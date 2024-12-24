@@ -1,0 +1,24 @@
+{
+  "packages": {
+    "clj-kondo":   "latest",
+    "cljfmt":      "latest",
+    "clojure-lsp": "latest",
+    "clojure":     "1.12.0.1479",
+    "awscli2":     "latest",
+    "glibcLocales": {
+      "version":            "latest",
+      "excluded_platforms": ["aarch64-darwin", "x86_64-darwin"]
+    },
+    // "path:devbox.d/postgresql#postgresql": "",
+    "nodejs":                              "20.15.1",
+    "sqlfluff":                            "latest",
+    // "awsebcli":                            "latest",
+    // "python311Packages.urllib3":           "1.26.16",
+    // "circleci-cli":                        "0.1.30549",
+    // "sentry-cli":                          "2.33.1",
+    // "redis":                               "6.2.6"
+  },
+  // "include": [
+  //   "plugin:postgresql"
+  // ]
+}

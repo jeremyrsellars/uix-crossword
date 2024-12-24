@@ -14,7 +14,10 @@
     "release:css": "tailwindcss -i ./resources/tailwind.css -o ./resources/public/css/style.css -m",
     "dev:cljs": "shadow-cljs watch app",
     "release:cljs": "shadow-cljs release app",
-    "dev": "concurrently 'yarn dev:css' 'yarn dev:cljs'",
-    "release": "yarn release:css && yarn release:cljs"
+    "dev": "concurrently 'npm run dev:css' 'npm run dev:cljs'",
+    "release": "npm run release:css && npm run release:cljs"
+  },
+  "volta": {
+    "node": "22.12.0"
   }
 }

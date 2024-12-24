@@ -22,3 +22,7 @@ pom.xml.asc
 
 resources/public/js
 resources/public/css/style.css
+node_modules
+.envrc
+.vscode
+.calva
